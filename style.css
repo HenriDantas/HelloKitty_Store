@@ -16,3 +16,12 @@ ul li{
     display: inline-block;
     margin-right: 15px;
 }
+
+ul li input{
+    border-radius: 50px;
+}
+
+#carousel{
+    background-color: rgb(255, 171, 185);
+    max-height: 400px;
+}
