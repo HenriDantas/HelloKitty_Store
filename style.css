@@ -1,24 +1,26 @@
 .navbar{
     background-color: pink;
+    
 }
 
 #logo{
     height: 50px;
+    justify-content: baseline;
 }
 
-ul{
+.menus{
     list-style-type: none; 
-    /* padding: 0;
-    margin: 0; */
+    margin: 0px;
 }
 
-ul li{
+.menus li{
     display: inline-block;
     margin-right: 15px;
 }
 
-ul li input{
-    border-radius: 50px;
+.menus li input{
+    border-radius: 7px;
+    width: 100px;
 }
 
 #carousel{
